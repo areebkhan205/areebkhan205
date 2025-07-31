@@ -1,6 +1,9 @@
-<img src="https://raw.githubusercontent.com/areebkhan205/areebkhan205/main/Banner.png" alt="Areeb Khan GitHub Banner" width="100%" />
 
 # 👋 Hi there, I'm Areeb Khan!
+
+
+<img src="https://raw.githubusercontent.com/areebkhan205/areebkhan205/main/Banner.png" alt="Areeb Khan GitHub Banner" width="100%" />
+
 
 🚀 Passionate CSE Student | 💻 Developer | 🧠 Lifelong Learner
 
