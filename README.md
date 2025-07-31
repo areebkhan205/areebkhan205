@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/areebkhan205/areebkhan205/main/Banner.png" alt="Areeb Khan GitHub Banner" width="100%" />
+
 # 👋 Hi there, I'm Areeb Khan!
 
 🚀 Passionate CSE Student | 💻 Developer | 🧠 Lifelong Learner
@@ -5,11 +7,10 @@
 ---
 
 ## 🌐 Connect with Me:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
+- 📧 **Email:** [areeb.2854.com@gmail.com](mailto:areeb.2854.com@gmail.com)
+- 💼 **Portfolio:** [areeb4-portfolio.netlify.app](https://areeb4-portfolio.netlify.app)
+- 🔗 **LinkedIn:** [linkedin.com/in/areebkhan205](https://www.linkedin.com/in/areebkhan205)
+- 📸 **Instagram:** [@_areebkhxn](https://www.instagram.com/_areebkhxn)
 ---
 
 ## 🛠️ Tech Stack I Work With:
