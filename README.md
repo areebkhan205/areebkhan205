@@ -49,13 +49,9 @@
 ---
 
 
-## 🧩 CodeCrawl
 
-![GitHub Streak](https://streak-stats.demolab.com?user=areebkhan205&theme=radical&border_radius=5)
-![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=areebkhan205&theme=radical)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=areebkhan205&theme=radical&margin-w=10&row=1)
-
-
+##🧩 CodeCrawl
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=areebkhan205&theme=tokyonight" /> </p>
 
 ## 💡 Quote:
 
