@@ -48,6 +48,15 @@
 
 ---
 
+
+## 🧩 CodeCrawl
+
+![GitHub Streak](https://streak-stats.demolab.com?user=areebkhan205&theme=radical&border_radius=5)
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=areebkhan205&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=areebkhan205&theme=radical&margin-w=10&row=1)
+
+
+
 ## 💡 Quote:
 
 > “The only way to do great work is to love what you do.” — Steve Jobs
