@@ -51,13 +51,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=areebkhan205&show_icons=true&theme=radical&cache_seconds=1800" alt="Areeb's GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=areebkhan205&theme=radical&cache=20250801" alt="GitHub Streak" />
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areebkhan205&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=areebkhan205&theme=radical&cache=20250801" alt="GitHub Streak" />
 </p>
 
 
