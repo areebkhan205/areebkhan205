@@ -58,8 +58,11 @@
 ## 🧩 CodeCrawl
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=areebkhan205&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=areebkhan205&theme=tokyonight" alt="GitHub Streak" />
+  <br>
+  <img src="https://ghchart.rshah.org/areebkhan205" alt="GitHub CodeCrawl" />
 </p>
+
 
 
 
