@@ -57,9 +57,8 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=areebkhan205&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=areebkhan205&theme=radical&cache=20250801" alt="GitHub Streak" />
 </p>
-
 
 
 <p align="center">
