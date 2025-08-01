@@ -58,9 +58,8 @@
 ## 🧩 CodeCrawl
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=areebkhan205&theme=tokyonight" alt="GitHub Streak" />
-  <br>
-  <img src="https://ghchart.rshah.org/areebkhan205" alt="GitHub CodeCrawl" />
+<img src="https://github-readme-stats.vercel.app/api?username=areebkhan205&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areebkhan205&layout=compact&theme=radical" />
 </p>
 
 
