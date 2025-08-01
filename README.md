@@ -57,8 +57,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=areebkhan205&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=areebkhan205&theme=radical" alt="GitHub Streak" />
 </p>
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=areebkhan205&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
